@@ -5247,11 +5247,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Wayne\\source\\repos\\NUnitTestProject3\\NUnitTestProject3.csproj",
-      "projectName": "NUnitTestProject3",
-      "projectPath": "C:\\Users\\Wayne\\source\\repos\\NUnitTestProject3\\NUnitTestProject3.csproj",
+      "projectUniqueName": "C:\\Users\\Wayne\\Documents\\GitHub\\NUnitTestProject3\\NUnitTestProject4.csproj",
+      "projectName": "NUnitTestProject4",
+      "projectPath": "C:\\Users\\Wayne\\Documents\\GitHub\\NUnitTestProject3\\NUnitTestProject4.csproj",
       "packagesPath": "C:\\Users\\Wayne\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Wayne\\source\\repos\\NUnitTestProject3\\obj\\",
+      "outputPath": "C:\\Users\\Wayne\\Documents\\GitHub\\NUnitTestProject3\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Wayne\\AppData\\Roaming\\NuGet\\NuGet.Config",

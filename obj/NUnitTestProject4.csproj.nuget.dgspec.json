@@ -1,15 +1,15 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Wayne\\Documents\\GitHub\\NUnitTestProject3\\NUnitTestProject3.csproj": {}
+    "C:\\Users\\Wayne\\Documents\\GitHub\\NUnitTestProject3\\NUnitTestProject4.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Wayne\\Documents\\GitHub\\NUnitTestProject3\\NUnitTestProject3.csproj": {
+    "C:\\Users\\Wayne\\Documents\\GitHub\\NUnitTestProject3\\NUnitTestProject4.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Wayne\\Documents\\GitHub\\NUnitTestProject3\\NUnitTestProject3.csproj",
-        "projectName": "NUnitTestProject3",
-        "projectPath": "C:\\Users\\Wayne\\Documents\\GitHub\\NUnitTestProject3\\NUnitTestProject3.csproj",
+        "projectUniqueName": "C:\\Users\\Wayne\\Documents\\GitHub\\NUnitTestProject3\\NUnitTestProject4.csproj",
+        "projectName": "NUnitTestProject4",
+        "projectPath": "C:\\Users\\Wayne\\Documents\\GitHub\\NUnitTestProject3\\NUnitTestProject4.csproj",
         "packagesPath": "C:\\Users\\Wayne\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\Wayne\\Documents\\GitHub\\NUnitTestProject3\\obj\\",
         "projectStyle": "PackageReference",
